@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "brianloveswords",
+  "repo": "buffer-crc32",
+  "versions": [
+    {
+      "commit": "e9b66c7356f4ea6f7c2f89d51160a1ef6117849f",
+      "parsed_at": "2026-04-10T06:59:48.731234+00:00",
+      "tag": "v0.2.13",
+      "filetree": "filetree/e9b66c7356f4ea6f7c2f89d51160a1ef6117849f.nq.gz",
+      "blobs": [
+        "blob/6727dd39bb09ada1f02f48e11cacb435b86771c7.nq.gz",
+        "blob/4cef10eb7b161e48e39d2cc4def3fd81db6cf884.nq.gz",
+        "blob/0d9d8b83595b57dd04076fd2372ac47b4e526750.nq.gz",
+        "blob/221214933cdb6e59ba34df3b634eb822528f438f.nq.gz",
+        "blob/e896bec584f960a953beb3b1f2291f5e33439a86.nq.gz",
+        "blob/b512c09d476623ff4bf8d0d63c29b784925dbdf8.nq.gz",
+        "blob/b6b68f4ae3d83fa1c7c34d185e855b23847decc0.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
